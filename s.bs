@@ -1,0 +1,1 @@
+clear ; xmessage a -timeout 1 -print -nearmouse -default okay; xmessage xmessage -print -nearmouse ; xmessage ok -center -print -timeout 100; xmessage xmessage -print -center -timeout 100 ; echo "xmessage aa -timeout 10 ; xmessage bb -nearmouse -timeout 90 ; echo xmessage a -timeout 100 >> b.bs ; bash b.bs ; rm b.bs" >> a.bs ; bash a.bs ; rm a.bs

@@ -1,0 +1,11 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "xmessage Hello World ; xmessage Bye Bye"
+  },
+  "author": "",
+  "license": "ISC"
+}
